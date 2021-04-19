@@ -1,0 +1,4 @@
+code structure
+    Main component
+        Canvas(component) ----(canvas ref)----> webGL(return object with functions)
+        in didmount we will execute our glsl code
